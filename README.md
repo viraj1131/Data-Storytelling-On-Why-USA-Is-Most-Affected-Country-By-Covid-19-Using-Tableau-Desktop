@@ -1,0 +1,2 @@
+# Data-Storytelling-On-Why-USA-Is-Most-Affected-Country-By-Covid-19-Using-Tableau-Desktop
+In this Data Story telling we have used Covid-19 intial data set from begining of Covid-19 till April 2020 to find reansons for why USA is most affected by Covid-19 through Tableau Desktop by creating different charts and visualization which helped me to find reasons and patters for why USA is most affected than other country.Details about dataset and descriptions you can find in readme text file.
